@@ -7,12 +7,8 @@
    width: 1440px;
 }
 
-.conteiner>h1 {
+h1 {
    text-align: left;
-   width: 460px;
-   height: 106px;
-   left: 147px;
-   top: 211px;
    font-style: normal;
    font-weight: 900;
    font-size: 44px;
@@ -21,10 +17,7 @@
 }
 
 p {
-   width: 460px;
-   height: 75px;
-   left: 147px;
-   top: 332px;
+
    font-style: normal;
    font-weight: 400;
    font-size: 18px;
@@ -32,7 +25,7 @@ p {
    color: #111238;
 }
 
-.conteiner>h2 {
+h2 {
    font-size: 36px;
    font-weight: 900;
    line-height: 43px;
@@ -40,14 +33,32 @@ p {
    text-align: center;
 }
 
-.conteiner>h4 {}
+h3 {
+   font-style: normal;
+   font-weight: 700;
+   font-size: 24px;
+   line-height: 29px;
+   color: #111238;
+}
+
+h4 {
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 19px;
+   color: #111238;
+}
+
+h5 {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #111238;
+   opacity: 0.8;
+}
 
 button:hover {
-   background: blue;
-   height: 49px;
-   width: 155px;
-   left: 1137px;
-   top: 44px;
    border-radius: 5px;
    padding: 15px 30px 15px 30px;
    display: flex;
@@ -55,16 +66,6 @@ button:hover {
    justify-content: center;
    align-items: center;
    padding: 15px 30px;
-   gap: 10px;
-
-   position: absolute;
-   width: 155px;
-   height: 49px;
-   left: 1137px;
-   top: 44px;
-
-   /* Buttons/Primary */
-
    background: #1A75E8;
    border-radius: 5px;
 }
