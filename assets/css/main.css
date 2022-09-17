@@ -1,0 +1,70 @@
+* {
+   font-family: 'Fira Sans', sans-serif;
+}
+
+.conteiner {
+   height: 2864px;
+   width: 1440px;
+}
+
+.conteiner>h1 {
+   text-align: left;
+   width: 460px;
+   height: 106px;
+   left: 147px;
+   top: 211px;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 44px;
+   line-height: 53px;
+   color: #111238;
+}
+
+p {
+   width: 460px;
+   height: 75px;
+   left: 147px;
+   top: 332px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 140%;
+   color: #111238;
+}
+
+.conteiner>h2 {
+   font-size: 36px;
+   font-weight: 900;
+   line-height: 43px;
+   letter-spacing: 0em;
+   text-align: center;
+}
+
+.conteiner>h4 {}
+
+button:hover {
+   background: blue;
+   height: 49px;
+   width: 155px;
+   left: 1137px;
+   top: 44px;
+   border-radius: 5px;
+   padding: 15px 30px 15px 30px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   padding: 15px 30px;
+   gap: 10px;
+
+   position: absolute;
+   width: 155px;
+   height: 49px;
+   left: 1137px;
+   top: 44px;
+
+   /* Buttons/Primary */
+
+   background: #1A75E8;
+   border-radius: 5px;
+}
