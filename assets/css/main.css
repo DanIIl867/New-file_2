@@ -23,9 +23,7 @@ h1 {
    line-height: 53px;
    color: #111238;
 }
-
 p {
-
    font-style: normal;
    font-weight: 400;
    font-size: 18px;
@@ -41,7 +39,6 @@ h2 {
    letter-spacing: 0em;
    text-align: center;
 }
-
 h3 {
    font-style: normal;
    font-weight: 700;
@@ -49,7 +46,6 @@ h3 {
    line-height: 29px;
    color: #111238;
 }
-
 h4 {
    font-style: normal;
    font-weight: 700;
@@ -57,7 +53,6 @@ h4 {
    line-height: 19px;
    color: #111238;
 }
-
 h5 {
    font-style: normal;
    font-weight: 400;
@@ -237,7 +232,7 @@ section>.conteiner>.header>.navbar {
 .section-1>.conteiner>.header>.hero>.hero-text>.input-group>.button {
    width: 211px;
    height: 49px;
-   margin-top: -59px;
+   margin-top: -61px;
    margin-left: 226px;
 }
 
